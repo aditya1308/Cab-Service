@@ -1,6 +1,6 @@
 # Cab-Service
 
-This repository contains the backend for a cab booking service, inspired by applications like Uber and Ola. It provides functionalities for user and admin management, trip booking, fare calculation, and OTP verification. The application is built using Java and the Spring Boot framework.
+This repository contains the backend for a cab booking service. It provides functionalities for user and admin management, trip booking, fare calculation, and OTP verification. The application is built using Java and the Spring Boot framework.
 
 ## Features
 
